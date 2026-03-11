@@ -1,0 +1,23 @@
+# Generated outputs (re-created by running the scripts)
+outputs/
+
+# Generated dataset (re-created by running data/generate_synthetic_data.py)
+data/hospital_readmissions.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
